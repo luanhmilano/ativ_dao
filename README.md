@@ -17,6 +17,6 @@ A classe empréstimo recebe o padrão DAO, que sobrescreve os métodos de CRUD c
 É a classe principal do projeto, responsável pela execução dos testes da classe Empréstimo DAO.
 ERRO: O compilador não está conseguindo encontrar a classe main, o que está impedindo a execução dos testes.
 
-Discentes:
-Emily Almeida Abreu
+## Discentes:
+Emily Almeida Abreu \n
 Luan Henrique dos Santos Silva
